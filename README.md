@@ -7,3 +7,6 @@ Features
 - Split documents into manageable chunks for efficient querying.
 - Store chunks in a Chroma vector store.
 - Query the Chroma vector store using a chatbot interface powered by OpenAI's GPT model.
+
+
+This project will be updated as soon as new changes are made to the project.
